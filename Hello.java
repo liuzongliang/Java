@@ -4,5 +4,6 @@ public class Hello
 		
 		System.out.println("Hello World!");
 		System.out.println("再测试一下！");
+		System.out.print("asdf");
 	}
 }
